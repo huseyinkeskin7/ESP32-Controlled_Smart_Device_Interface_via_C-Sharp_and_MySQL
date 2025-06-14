@@ -1,0 +1,16 @@
+C:\Users\Hüseyin Keskin\OneDrive\Masaüstü\DERS\code\MySQL_C_LED\MySQL_C_LED\bin\Debug\MySQL_C_LED.exe.config
+C:\Users\Hüseyin Keskin\OneDrive\Masaüstü\DERS\code\MySQL_C_LED\MySQL_C_LED\bin\Debug\MySQL_C_LED.exe
+C:\Users\Hüseyin Keskin\OneDrive\Masaüstü\DERS\code\MySQL_C_LED\MySQL_C_LED\bin\Debug\MySQL_C_LED.pdb
+C:\Users\Hüseyin Keskin\OneDrive\Masaüstü\DERS\code\MySQL_C_LED\MySQL_C_LED\bin\Debug\System.Memory.dll
+C:\Users\Hüseyin Keskin\OneDrive\Masaüstü\DERS\code\MySQL_C_LED\MySQL_C_LED\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hüseyin Keskin\OneDrive\Masaüstü\DERS\code\MySQL_C_LED\MySQL_C_LED\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hüseyin Keskin\OneDrive\Masaüstü\DERS\code\MySQL_C_LED\MySQL_C_LED\bin\Debug\System.Buffers.dll
+C:\Users\Hüseyin Keskin\OneDrive\Masaüstü\DERS\code\MySQL_C_LED\MySQL_C_LED\obj\Debug\stm32_c.csproj.AssemblyReference.cache
+C:\Users\Hüseyin Keskin\OneDrive\Masaüstü\DERS\code\MySQL_C_LED\MySQL_C_LED\obj\Debug\stm32_c.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hüseyin Keskin\OneDrive\Masaüstü\DERS\code\MySQL_C_LED\MySQL_C_LED\obj\Debug\MySQL_C_LED.Form1.resources
+C:\Users\Hüseyin Keskin\OneDrive\Masaüstü\DERS\code\MySQL_C_LED\MySQL_C_LED\obj\Debug\MySQL_C_LED.Properties.Resources.resources
+C:\Users\Hüseyin Keskin\OneDrive\Masaüstü\DERS\code\MySQL_C_LED\MySQL_C_LED\obj\Debug\stm32_c.csproj.GenerateResource.cache
+C:\Users\Hüseyin Keskin\OneDrive\Masaüstü\DERS\code\MySQL_C_LED\MySQL_C_LED\obj\Debug\stm32_c.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin Keskin\OneDrive\Masaüstü\DERS\code\MySQL_C_LED\MySQL_C_LED\obj\Debug\stm32_c.csproj.CopyComplete
+C:\Users\Hüseyin Keskin\OneDrive\Masaüstü\DERS\code\MySQL_C_LED\MySQL_C_LED\obj\Debug\MySQL_C_LED.exe
+C:\Users\Hüseyin Keskin\OneDrive\Masaüstü\DERS\code\MySQL_C_LED\MySQL_C_LED\obj\Debug\MySQL_C_LED.pdb
